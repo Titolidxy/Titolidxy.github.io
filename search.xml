@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>随机场</title>
+      <link href="/year/05/11/sui-ji-chang/"/>
+      <url>/year/05/11/sui-ji-chang/</url>
+      
+        <content type="html"><![CDATA[<p>倘若你人生的每一个时刻看做一个随机变量，且都是满足高斯分布，那么你的人生就可以看做一个高斯过程，既有很多确定的东西，确定的是mean和kernel，如你的人生中你起点决定的你人生的大致范围，又有极大地不确定性，本质还是随机变量的整体，就像你可以凭借自身的努力改变很多东西，这就是属于你的高斯过程。</p><h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>去年7月份的某一天，坐在办公室里百无聊赖，玩玩手机，看看论文，日子还算安逸~  ~ 晚上的时候老师突然丢给我一个方向，说是让我研究岩土参数的变异性和地质统计理论这一方面，老师说什么我就应允什么。人最怕的就是没有方向，既然老师都给了方向，那就撸起袖子干就完事了，接下来的一个多月，我都在看这方面的论文，在网上找各种资料，但都没有一个满意的结果，看了几篇博士论文，但还没搞懂这个东西到底是干嘛的，搞得我直抱怨，博士论文非得把一个理论整的晦涩难懂，进而拔高门槛，何必呢？现在回过头来想想，虽然走了很多弯路，但也值得。</p><p>我这个人不喜欢复杂的事物，就连走路都总喜欢走捷径，如果有两条路摆在我的面前，一条蜿蜒曲折但又十分好走，另一条泥泞崎岖但距离目的地又很近，那我多半会选择后者。所以我无论是在学习还是在生活中，总是喜欢把复杂的问题简单化，因此我想以较为通俗易懂的语言来描述”随机场”这个概念。</p><p>首先，我们要明确“随机变量”这个概念，简单地说，随机变量是指<a href="https://baike.baidu.com/item/随机事件" target="_blank" rel="noopener">随机事件</a>的数量表现。在岩土工程实际中，我们通常需要取土样或者岩样进行试验来获取参数进行后续的分析。在取样的过程中，我们只是取得实际土体或岩体中的一个局部范围内的试样，这样获得的参数即随机变量。岩土体不同于钢筋、水泥等人工可控制的材料，岩土是天然材料，经过地质作用后，其参数存在变异性，也就是说每个局部范围内的参数不一致。实际取样过程中，可能因为工程技术人员取样的区域不同，或者试验人员操作存在细微差别，导致参数存在变异性。</p><p>随机场简单而言，就是无穷多个随机变量的组合，映射到实际工程，也就是岩土体无穷多个点的参数的集合。但这些点不是孤立存在的，虽然每个点的参数值都是随机变量，但是它们点与点之间也存在关联。下节再说，累了困了~ ~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 有限元 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随机场 </tag>
+            
+            <tag> 有限元 </tag>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/year/05/09/hello-world/"/>
+      <url>/year/05/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
